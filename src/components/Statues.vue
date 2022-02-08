@@ -32,7 +32,7 @@
                     </td>
                     <td>
                         <button v-if="newData" @click="newStatue">Mentés</button>
-                        <button v-if="!newData" @click="saveEditedData">Mentés</button>
+                        <button v-if="!newData" @click="saveEditedData">Szerkesztés</button>
                         <button @click="clearForm">Mégse</button>
                     </td>
                 </tr>
