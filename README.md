@@ -1,4 +1,4 @@
-# [Név]
+# Kovács Krisztián
 
 ## Hogyan kezdj neki?
 
